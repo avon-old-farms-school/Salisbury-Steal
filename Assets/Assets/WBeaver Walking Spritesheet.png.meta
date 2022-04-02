@@ -1,0 +1,458 @@
+fileFormatVersion: 2
+guid: 85108bc6b3890422d8477606dbea993d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5351614068052522456
+    second: WBeaver Walking Spritesheet_0
+  - first:
+      213: -5857061043837623790
+    second: WBeaver Walking Spritesheet_1
+  - first:
+      213: 5023842683455945362
+    second: WBeaver Walking Spritesheet_2
+  - first:
+      213: -5304543996986693835
+    second: WBeaver Walking Spritesheet_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WBeaver Walking Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 971
+        height: 1459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 403.95114, y: 664.99286}
+        - {x: 335.6777, y: 507.51953}
+        - {x: 178.26952, y: 729.5}
+        - {x: -337.5742, y: 729.5}
+        - {x: -356.53903, y: 718.1164}
+        - {x: -453.25974, y: 541.67035}
+        - {x: -470.3281, y: 441.11508}
+        - {x: -383.0898, y: 198.26463}
+        - {x: -485.49997, y: -69.25033}
+        - {x: -485.49997, y: -511.31406}
+        - {x: -466.53513, y: -594.7939}
+        - {x: 273.09375, y: -594.7939}
+        - {x: 485.49997, y: 188.77829}
+        - {x: 485.49997, y: 611.8693}
+        - {x: 415.33005, y: 687.7601}
+      - - {x: 227.57811, y: -80.63394}
+        - {x: 223.78514, y: -73.04487}
+        - {x: 223.78514, y: -67.35306}
+        - {x: 219.99217, y: -59.76398}
+        - {x: 219.99217, y: -54.072174}
+        - {x: 218.09569, y: -52.174904}
+        - {x: 218.09569, y: -40.79129}
+        - {x: 216.1992, y: -38.89402}
+        - {x: 216.1992, y: -33.202213}
+        - {x: 214.30272, y: -31.304943}
+        - {x: 212.40623, y: -21.818596}
+        - {x: 210.50975, y: -27.510405}
+        - {x: 212.40623, y: -29.407673}
+        - {x: 214.30272, y: -38.89402}
+        - {x: 218.09569, y: -48.380367}
+        - {x: 221.88866, y: -50.277634}
+        - {x: 219.99217, y: -52.174904}
+        - {x: 219.99217, y: -59.76398}
+        - {x: 221.88866, y: -61.66125}
+        - {x: 221.88866, y: -65.45579}
+        - {x: 227.57811, y: -71.1476}
+        - {x: 231.37108, y: -80.63394}
+        - {x: 227.57811, y: -84.42848}
+      - - {x: -87.23827, y: 61.66125}
+        - {x: -92.92773, y: 67.35306}
+        - {x: -96.720695, y: 55.96944}
+        - {x: -100.513664, y: 38.89402}
+        - {x: -100.513664, y: 33.202213}
+        - {x: -102.41015, y: 31.304943}
+        - {x: -104.30663, y: 16.12679}
+        - {x: -104.30663, y: 6.6404424}
+        - {x: -106.20312, y: 4.743173}
+        - {x: -108.0996, y: -2.8459039}
+        - {x: -108.0996, y: -16.12679}
+        - {x: -104.30663, y: -18.024057}
+      - - {x: 210.50975, y: 19.921328}
+        - {x: 208.61327, y: 21.818596}
+        - {x: 208.61327, y: 27.510405}
+        - {x: 206.71678, y: 29.407673}
+        - {x: 204.8203, y: 55.96944}
+        - {x: 202.92381, y: 57.86671}
+        - {x: 201.02733, y: 76.8394}
+        - {x: 204.8203, y: 63.558517}
+        - {x: 210.50975, y: 57.86671}
+        - {x: 210.50975, y: 46.483097}
+        - {x: 208.61327, y: 44.585827}
+        - {x: 208.61327, y: 12.33225}
+        - {x: 210.50975, y: 12.33225}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5f04d04a0c44a40800000000000000
+      internalID: 5351614068052522456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WBeaver Walking Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 0
+        width: 971
+        height: 1459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 415.33005, y: 687.7601}
+        - {x: 403.95114, y: 664.99286}
+        - {x: 335.6777, y: 507.51953}
+        - {x: 178.26952, y: 729.5}
+        - {x: -343.26364, y: 729.5}
+        - {x: -485.49997, y: 615.6639}
+        - {x: -485.49997, y: -594.7939}
+        - {x: -240.8535, y: -729.5}
+        - {x: 259.81836, y: -729.5}
+        - {x: 470.3281, y: -666.89014}
+        - {x: 485.49997, y: -329.1762}
+        - {x: 485.49997, y: 570.1294}
+      - - {x: 227.57811, y: -80.63394}
+        - {x: 223.78514, y: -73.04487}
+        - {x: 223.78514, y: -67.35306}
+        - {x: 219.99217, y: -59.76398}
+        - {x: 219.99217, y: -54.072174}
+        - {x: 218.09569, y: -52.174904}
+        - {x: 218.09569, y: -40.79129}
+        - {x: 216.1992, y: -38.89402}
+        - {x: 216.1992, y: -33.202213}
+        - {x: 214.30272, y: -31.304943}
+        - {x: 212.40623, y: -21.818596}
+        - {x: 210.50975, y: -27.510405}
+        - {x: 212.40623, y: -29.407673}
+        - {x: 214.30272, y: -38.89402}
+        - {x: 218.09569, y: -48.380367}
+        - {x: 221.88866, y: -50.277634}
+        - {x: 219.99217, y: -52.174904}
+        - {x: 219.99217, y: -59.76398}
+        - {x: 221.88866, y: -61.66125}
+        - {x: 221.88866, y: -65.45579}
+        - {x: 227.57811, y: -71.1476}
+        - {x: 231.37108, y: -80.63394}
+        - {x: 227.57811, y: -84.42848}
+      - - {x: -87.23827, y: 61.66125}
+        - {x: -92.92773, y: 67.35306}
+        - {x: -96.720695, y: 55.96944}
+        - {x: -100.513664, y: 38.89402}
+        - {x: -100.513664, y: 33.202213}
+        - {x: -102.41015, y: 31.304943}
+        - {x: -104.30663, y: 16.12679}
+        - {x: -104.30663, y: 6.6404424}
+        - {x: -106.20312, y: 4.743173}
+        - {x: -108.0996, y: -2.8459039}
+        - {x: -108.0996, y: -16.12679}
+        - {x: -104.30663, y: -18.024057}
+      - - {x: 210.50975, y: 19.921328}
+        - {x: 208.61327, y: 21.818596}
+        - {x: 208.61327, y: 27.510405}
+        - {x: 206.71678, y: 29.407673}
+        - {x: 204.8203, y: 55.96944}
+        - {x: 202.92381, y: 57.86671}
+        - {x: 201.02733, y: 76.8394}
+        - {x: 204.8203, y: 63.558517}
+        - {x: 210.50975, y: 57.86671}
+        - {x: 210.50975, y: 46.483097}
+        - {x: 208.61327, y: 44.585827}
+        - {x: 208.61327, y: 12.33225}
+        - {x: 210.50975, y: 12.33225}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212a74e330a87bea0800000000000000
+      internalID: -5857061043837623790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WBeaver Walking Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 0
+        width: 971
+        height: 1459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -344.21188, y: 729.5}
+        - {x: -485.5, y: 617.56116}
+        - {x: -485.5, y: -604.2803}
+        - {x: 289.21387, y: -604.2803}
+        - {x: 485.5, y: -551.15674}
+        - {x: 485.5, y: 729.5}
+      - - {x: 480.75876, y: -380.40247}
+        - {x: 484.55173, y: -384.19702}
+        - {x: 485.5, y: -384.19702}
+        - {x: 485.5, y: -317.7926}
+        - {x: 480.75876, y: -319.68988}
+      - - {x: 226.62987, y: -80.63394}
+        - {x: 222.8369, y: -73.04487}
+        - {x: 222.8369, y: -67.35306}
+        - {x: 219.04393, y: -59.76398}
+        - {x: 219.04393, y: -54.072174}
+        - {x: 217.14745, y: -52.174904}
+        - {x: 217.14745, y: -40.79129}
+        - {x: 215.25096, y: -38.89402}
+        - {x: 215.25096, y: -33.202213}
+        - {x: 213.35448, y: -31.304943}
+        - {x: 211.458, y: -21.818596}
+        - {x: 209.56151, y: -27.510405}
+        - {x: 211.458, y: -29.407673}
+        - {x: 213.35448, y: -38.89402}
+        - {x: 217.14745, y: -48.380367}
+        - {x: 220.94041, y: -50.277634}
+        - {x: 219.04393, y: -52.174904}
+        - {x: 219.04393, y: -59.76398}
+        - {x: 220.94041, y: -61.66125}
+        - {x: 220.94041, y: -65.45579}
+        - {x: 226.62987, y: -71.1476}
+        - {x: 230.42284, y: -80.63394}
+        - {x: 226.62987, y: -84.42848}
+      - - {x: -88.186516, y: 61.66125}
+        - {x: -93.87597, y: 67.35306}
+        - {x: -97.66894, y: 55.96944}
+        - {x: -101.46191, y: 38.89402}
+        - {x: -101.46191, y: 33.202213}
+        - {x: -103.35839, y: 31.304943}
+        - {x: -105.254875, y: 16.12679}
+        - {x: -105.254875, y: 6.6404424}
+        - {x: -107.15136, y: 4.743173}
+        - {x: -109.047844, y: -2.8459039}
+        - {x: -109.047844, y: -16.12679}
+        - {x: -105.254875, y: -18.024057}
+      - - {x: 209.56151, y: 19.921328}
+        - {x: 207.66502, y: 21.818596}
+        - {x: 207.66502, y: 27.510405}
+        - {x: 205.76854, y: 29.407673}
+        - {x: 203.87206, y: 55.96944}
+        - {x: 201.97557, y: 57.86671}
+        - {x: 200.07909, y: 76.8394}
+        - {x: 203.87206, y: 63.558517}
+        - {x: 209.56151, y: 57.86671}
+        - {x: 209.56151, y: 46.483097}
+        - {x: 207.66502, y: 44.585827}
+        - {x: 207.66502, y: 12.33225}
+        - {x: 209.56151, y: 12.33225}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a36da9d4648b540800000000000000
+      internalID: 5023842683455945362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WBeaver Walking Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2913
+        y: 0
+        width: 971
+        height: 1459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 415.3303, y: 687.7601}
+        - {x: 403.9514, y: 664.99286}
+        - {x: 335.67795, y: 507.51953}
+        - {x: 178.26976, y: 729.5}
+        - {x: -343.26343, y: 729.5}
+        - {x: -485.49976, y: 615.6639}
+        - {x: -485.49976, y: -594.7939}
+        - {x: -240.85327, y: -729.5}
+        - {x: 259.81857, y: -729.5}
+        - {x: 470.32834, y: -666.89014}
+        - {x: 485.5, y: -329.1762}
+        - {x: 485.5, y: 570.1294}
+      - - {x: 227.57834, y: -80.63394}
+        - {x: 223.78537, y: -73.04487}
+        - {x: 223.78537, y: -67.35306}
+        - {x: 219.9924, y: -59.76398}
+        - {x: 219.9924, y: -54.072174}
+        - {x: 218.09593, y: -52.174904}
+        - {x: 218.09593, y: -40.79129}
+        - {x: 216.19945, y: -38.89402}
+        - {x: 216.19945, y: -33.202213}
+        - {x: 214.30296, y: -31.304943}
+        - {x: 212.40648, y: -21.818596}
+        - {x: 210.51, y: -27.510405}
+        - {x: 212.40648, y: -29.407673}
+        - {x: 214.30296, y: -38.89402}
+        - {x: 218.09593, y: -48.380367}
+        - {x: 221.88889, y: -50.277634}
+        - {x: 219.9924, y: -52.174904}
+        - {x: 219.9924, y: -59.76398}
+        - {x: 221.88889, y: -61.66125}
+        - {x: 221.88889, y: -65.45579}
+        - {x: 227.57834, y: -71.1476}
+        - {x: 231.3713, y: -80.63394}
+        - {x: 227.57834, y: -84.42848}
+      - - {x: -87.238045, y: 61.66125}
+        - {x: -92.9275, y: 67.35306}
+        - {x: -96.72047, y: 55.96944}
+        - {x: -100.513435, y: 38.89402}
+        - {x: -100.513435, y: 33.202213}
+        - {x: -102.40992, y: 31.304943}
+        - {x: -104.306404, y: 16.12679}
+        - {x: -104.306404, y: 6.6404424}
+        - {x: -106.20289, y: 4.743173}
+        - {x: -108.09937, y: -2.8459039}
+        - {x: -108.09937, y: -16.12679}
+        - {x: -104.306404, y: -18.024057}
+      - - {x: 210.51, y: 19.921328}
+        - {x: 208.61351, y: 21.818596}
+        - {x: 208.61351, y: 27.510405}
+        - {x: 206.71703, y: 29.407673}
+        - {x: 204.82054, y: 55.96944}
+        - {x: 202.92406, y: 57.86671}
+        - {x: 201.02757, y: 76.8394}
+        - {x: 204.82054, y: 63.558517}
+        - {x: 210.51, y: 57.86671}
+        - {x: 210.51, y: 46.483097}
+        - {x: 208.61351, y: 44.585827}
+        - {x: 208.61351, y: 12.33225}
+        - {x: 210.51, y: 12.33225}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5376d24e6597266b0800000000000000
+      internalID: -5304543996986693835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

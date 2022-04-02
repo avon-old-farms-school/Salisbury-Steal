@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: 0680ed72fa91d4f6c88dc87b44e2c440
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5422535240792805843
+    second: Salisbury Gentleman Spritesheet_0
+  - first:
+      213: -1504627209132900552
+    second: Salisbury Gentleman Spritesheet_1
+  - first:
+      213: -574581465744644179
+    second: Salisbury Gentleman Spritesheet_2
+  - first:
+      213: 3688607712109653282
+    second: Salisbury Gentleman Spritesheet_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Salisbury Gentleman Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2100
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -57.421875, y: -696.7213}
+        - {x: 488.08594, y: -586.06555}
+        - {x: 594.72656, y: -487.70493}
+        - {x: 586.52344, y: -381.14752}
+        - {x: 549.6094, y: -295.08197}
+        - {x: 299.41406, y: -139.34425}
+        - {x: 545.5078, y: -204.91803}
+        - {x: 635.7422, y: -459.0164}
+        - {x: 697.2656, y: -590.16394}
+        - {x: 869.53125, y: -520.4918}
+        - {x: 869.53125, y: -98.36066}
+        - {x: 139.45312, y: 729.5082}
+        - {x: -283.0078, y: 729.5082}
+        - {x: -840.8203, y: -73.77049}
+        - {x: -910.5469, y: -389.34427}
+        - {x: -910.5469, y: -696.7213}
+        - {x: -492.1875, y: -696.7213}
+        - {x: -545.5078, y: -459.0164}
+        - {x: -438.8672, y: -647.54095}
+        - {x: -98.4375, y: -696.7213}
+      - - {x: -853.125, y: -573.7705}
+        - {x: -840.8203, y: -569.6721}
+        - {x: -853.125, y: -581.9672}
+        - {x: -849.02344, y: -581.9672}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ee186ade84fb4b0800000000000000
+      internalID: -5422535240792805843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salisbury Gentleman Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 2100
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -229.6875, y: 741.8033}
+        - {x: -369.14062, y: 639.34424}
+        - {x: -344.53125, y: 364.7541}
+        - {x: -213.28125, y: 356.55737}
+        - {x: -209.17969, y: 299.18033}
+        - {x: -287.10938, y: 356.55737}
+        - {x: -438.8672, y: 327.86884}
+        - {x: -976.1719, y: -368.85245}
+        - {x: -988.47656, y: -409.83606}
+        - {x: -988.47656, y: -532.78687}
+        - {x: -926.9531, y: -590.16394}
+        - {x: -906.4453, y: -581.9672}
+        - {x: -890.03906, y: -569.6721}
+        - {x: -885.9375, y: -557.377}
+        - {x: -885.9375, y: -532.78687}
+        - {x: -881.83594, y: -520.4918}
+        - {x: -885.9375, y: -540.9836}
+        - {x: -890.03906, y: -586.06555}
+        - {x: -885.9375, y: -602.459}
+        - {x: -840.8203, y: -651.63934}
+        - {x: -660.35156, y: -549.1803}
+        - {x: -541.40625, y: -668.0328}
+        - {x: 438.8672, y: -668.0328}
+        - {x: 697.2656, y: -651.63934}
+        - {x: 947.46094, y: -573.7705}
+        - {x: 947.46094, y: -94.26229}
+        - {x: 406.0547, y: 741.8033}
+      - - {x: 881.83594, y: -286.88525}
+        - {x: 869.53125, y: -286.88525}
+        - {x: 885.9375, y: -299.18033}
+        - {x: 890.03906, y: -295.08197}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ffe30768d7e1be0800000000000000
+      internalID: -1504627209132900552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salisbury Gentleman Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 2100
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 221.48438, y: 467.2131}
+        - {x: 114.84375, y: 401.63934}
+        - {x: 114.84375, y: 348.36066}
+        - {x: 114.84375, y: 393.44263}
+        - {x: 106.640625, y: 401.63934}
+        - {x: 90.234375, y: 401.63934}
+        - {x: 123.046875, y: 508.19672}
+        - {x: 90.234375, y: 528.68854}
+        - {x: 4.1015625, y: 750}
+        - {x: -258.39844, y: 750}
+        - {x: -352.73438, y: 639.34424}
+        - {x: -365.03906, y: 377.04916}
+        - {x: -344.53125, y: 368.85245}
+        - {x: -258.39844, y: 368.85245}
+        - {x: -233.78906, y: 372.9508}
+        - {x: -262.5, y: 356.55737}
+        - {x: -295.3125, y: 368.85245}
+        - {x: -369.14062, y: 364.7541}
+        - {x: -438.8672, y: 340.16394}
+        - {x: -648.0469, y: 192.62296}
+        - {x: -1037.6953, y: -331.96722}
+        - {x: -1037.6953, y: -401.63934}
+        - {x: -1021.28906, y: -422.13113}
+        - {x: -1000.78125, y: -422.13113}
+        - {x: -1008.9844, y: -422.13113}
+        - {x: -1033.5938, y: -438.5246}
+        - {x: -1037.6953, y: -450.81967}
+        - {x: -1037.6953, y: -540.9836}
+        - {x: -1013.08594, y: -581.9672}
+        - {x: -992.5781, y: -602.459}
+        - {x: -976.1719, y: -602.459}
+        - {x: -963.8672, y: -586.06555}
+        - {x: -951.5625, y: -618.8525}
+        - {x: -857.22656, y: -668.0328}
+        - {x: -820.3125, y: -668.0328}
+        - {x: -541.40625, y: -299.18033}
+        - {x: -516.7969, y: -668.0328}
+        - {x: 771.09375, y: -668.0328}
+        - {x: 963.8672, y: -643.4426}
+        - {x: 1004.8828, y: -561.4754}
+        - {x: 1004.8828, y: -188.52458}
+        - {x: 779.2969, y: 114.7541}
+      - - {x: -972.0703, y: -467.2131}
+        - {x: -984.375, y: -467.2131}
+        - {x: -1004.8828, y: -504.09836}
+        - {x: -992.5781, y: -504.09836}
+      - - {x: -959.7656, y: -401.63934}
+        - {x: -980.27344, y: -405.7377}
+        - {x: -988.47656, y: -413.93442}
+        - {x: -984.375, y: -418.03278}
+      - - {x: -155.85938, y: 282.7869}
+        - {x: -176.36719, y: 295.08197}
+        - {x: -151.75781, y: 278.6885}
+        - {x: -131.25, y: 266.39343}
+        - {x: -123.046875, y: 266.39343}
+        - {x: -118.94531, y: 262.29507}
+        - {x: -106.640625, y: 258.19672}
+        - {x: -118.94531, y: 258.19672}
+        - {x: -139.45312, y: 245.90164}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da764cf733da608f0800000000000000
+      internalID: -574581465744644179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salisbury Gentleman Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 0
+        width: 2100
+        height: 1500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 849.02344, y: -553.2787}
+        - {x: 951.5625, y: -454.91803}
+        - {x: 951.5625, y: -176.2295}
+        - {x: 808.0078, y: 53.278687}
+        - {x: 254.29688, y: 434.42624}
+        - {x: 151.75781, y: 389.34427}
+        - {x: 123.046875, y: 336.06558}
+        - {x: 127.14844, y: 377.04916}
+        - {x: 127.14844, y: 475.40982}
+        - {x: 135.35156, y: 741.8033}
+        - {x: -496.28906, y: 741.8033}
+        - {x: -356.83594, y: 409.83606}
+        - {x: -303.51562, y: 352.459}
+        - {x: -205.07812, y: 319.67212}
+        - {x: -155.85938, y: 266.39343}
+        - {x: -229.6875, y: 327.86884}
+        - {x: -356.83594, y: 352.459}
+        - {x: -426.5625, y: 327.86884}
+        - {x: -980.27344, y: -327.86884}
+        - {x: -980.27344, y: -586.06555}
+        - {x: -951.5625, y: -659.83606}
+        - {x: -926.9531, y: -668.0328}
+        - {x: 319.92188, y: -668.0328}
+        - {x: 590.625, y: -553.2787}
+        - {x: 639.84375, y: -352.459}
+        - {x: 660.35156, y: -413.93442}
+      - - {x: 885.9375, y: -286.88525}
+        - {x: 873.6328, y: -286.88525}
+        - {x: 890.03906, y: -303.2787}
+        - {x: 898.2422, y: -307.37704}
+        - {x: 898.2422, y: -299.18033}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22def0ccb21903330800000000000000
+      internalID: 3688607712109653282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

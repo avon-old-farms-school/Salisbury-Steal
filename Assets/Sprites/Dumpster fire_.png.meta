@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 184388a910da640d49fad5fd1fe996ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6056001672767896694
+    second: Dumpster fire__0
+  - first:
+      213: 2591756085852615161
+    second: Dumpster fire__1
+  - first:
+      213: 1153514228894409653
+    second: Dumpster fire__2
+  - first:
+      213: -3217885390218307007
+    second: Dumpster fire__3
+  - first:
+      213: -2487676500209389595
+    second: Dumpster fire__4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dumpster fire__0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 749
+        height: 2100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 277.10376, y: 25.55781}
+        - {x: 234.49634, y: 108.62069}
+        - {x: 157.80298, y: 187.42393}
+        - {x: 8.676997, y: 560.14197}
+        - {x: -197.96901, y: 560.14197}
+        - {x: -332.18237, y: 293.9148}
+        - {x: -332.18237, y: -888.13385}
+        - {x: -219.27272, y: -1050}
+        - {x: 243.01782, y: -1050}
+        - {x: 313.32007, y: -994.62476}
+        - {x: 341.0149, y: -502.6369}
+        - {x: 341.0149, y: -281.1359}
+        - {x: 313.32007, y: -78.803246}
+      - - {x: -70.146736, y: 634.6856}
+        - {x: -74.40748, y: 630.42596}
+        - {x: -74.40748, y: 594.21906}
+        - {x: -70.146736, y: 589.9594}
+        - {x: -31.800055, y: 589.9594}
+        - {x: -29.669683, y: 596.3489}
+        - {x: -29.669683, y: 634.6856}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a838f7f8092c4fba0800000000000000
+      internalID: -6056001672767896694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dumpster fire__1
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 0
+        width: 749
+        height: 2100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -35.46852, y: 538.8438}
+        - {x: -37.598892, y: 540.97363}
+        - {x: -135.59596, y: 540.97363}
+        - {x: -337.98123, y: -76.67342}
+        - {x: -337.98123, y: -660.2434}
+        - {x: -244.24489, y: -1022.3124}
+        - {x: -156.89967, y: -1050}
+        - {x: 173.30785, y: -1050}
+        - {x: 301.13013, y: -1005.2738}
+        - {x: 333.0857, y: -440.8722}
+        - {x: 333.0857, y: -95.84178}
+      - - {x: -78.07594, y: 649.5943}
+        - {x: -78.07594, y: 606.998}
+        - {x: -35.46852, y: 606.998}
+        - {x: -35.46852, y: 649.5943}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1b3b9ad64c7f320800000000000000
+      internalID: 2591756085852615161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dumpster fire__2
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 0
+        width: 749
+        height: 2100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 221.57277, y: -89.45233}
+        - {x: 198.13869, y: 31.947262}
+        - {x: -59.63622, y: 594.21906}
+        - {x: -121.416985, y: 594.21906}
+        - {x: -353.62744, y: -264.09735}
+        - {x: -353.62744, y: -379.1075}
+        - {x: -291.84668, y: -868.9655}
+        - {x: -268.4126, y: -988.2353}
+        - {x: -238.5874, y: -1050}
+        - {x: 217.31203, y: -1050}
+        - {x: 319.56985, y: -1024.4421}
+        - {x: 319.56985, y: -279.00607}
+        - {x: 225.83351, y: -93.71197}
+      - - {x: -89.46142, y: 730.52734}
+        - {x: -87.33105, y: 724.13794}
+        - {x: -53.245106, y: 724.13794}
+        - {x: -46.853992, y: 726.26776}
+        - {x: -46.853992, y: 764.60443}
+        - {x: -85.200676, y: 764.60443}
+        - {x: -89.46142, y: 760.3448}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b32c90641b120010800000000000000
+      internalID: 1153514228894409653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dumpster fire__3
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 0
+        width: 749
+        height: 2100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -208.47809, y: 585.69977}
+        - {x: -212.73883, y: 583.56995}
+        - {x: -208.47809, y: 549.4929}
+        - {x: -204.21735, y: 545.2333}
+        - {x: -344.82184, y: 357.80933}
+        - {x: -344.82184, y: -930.7302}
+        - {x: -319.2574, y: -1050}
+        - {x: 326.24506, y: -1050}
+        - {x: 326.24506, y: 61.764706}
+        - {x: -136.04547, y: 585.69977}
+      - - {x: -97.69879, y: 1050}
+        - {x: -97.69879, y: 1015.9229}
+        - {x: -93.43805, y: 1011.66327}
+        - {x: -61.48248, y: 1011.66327}
+        - {x: -57.221737, y: 1015.9229}
+        - {x: -57.221737, y: 1050}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a5e146946c753d0800000000000000
+      internalID: -3217885390218307007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dumpster fire__4
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 0
+        width: 749
+        height: 2100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 46.994293, y: 670.89246}
+        - {x: -161.78207, y: 670.89246}
+        - {x: -374.5, y: 119.269775}
+        - {x: -374.5, y: -643.20483}
+        - {x: -229.95396, y: -1050}
+        - {x: 196.12027, y: -1050}
+        - {x: 340.9855, y: -981.8458}
+        - {x: 374.5, y: -570.7911}
+        - {x: 374.5, y: 17.03854}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efaee0476ff97dd0800000000000000
+      internalID: -2487676500209389595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

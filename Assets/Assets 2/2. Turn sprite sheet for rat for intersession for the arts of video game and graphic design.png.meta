@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: 0d11a0e7994d24875a5b4377400baee6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6568911899497169994
+    second: 2. Turn sprite sheet for rat for intersession for the arts of video game
+      and graphic design_0
+  - first:
+      213: 8534685565998623348
+    second: 2. Turn sprite sheet for rat for intersession for the arts of video game
+      and graphic design_1
+  - first:
+      213: 9187440499822315900
+    second: 2. Turn sprite sheet for rat for intersession for the arts of video game
+      and graphic design_2
+  - first:
+      213: -8531432794470257556
+    second: 2. Turn sprite sheet for rat for intersession for the arts of video game
+      and graphic design_3
+  - first:
+      213: -8635598519888136103
+    second: 2. Turn sprite sheet for rat for intersession for the arts of video game
+      and graphic design_4
+  - first:
+      213: -9190530733835609895
+    second: 2. Turn sprite sheet for rat for intersession for the arts of video game
+      and graphic design_5
+  - first:
+      213: 5213698383436172799
+    second: 2. Turn sprite sheet for rat for intersession for the arts of video game
+      and graphic design_6
+  - first:
+      213: -5449490230104004531
+    second: 2. Turn sprite sheet for rat for intersession for the arts of video game
+      and graphic design_7
+  - first:
+      213: 675739827757844287
+    second: 2. Turn sprite sheet for rat for intersession for the arts of video game
+      and graphic design_8
+  - first:
+      213: 6421802335547042195
+    second: 2. Turn sprite sheet for rat for intersession for the arts of video game
+      and graphic design_9
+  - first:
+      213: -8291004297778569340
+    second: 2. Turn sprite sheet for rat for intersession for the arts of video game
+      and graphic design_10
+  - first:
+      213: 1020250215551546309
+    second: 2. Turn sprite sheet for rat for intersession for the arts of video game
+      and graphic design_11
+  - first:
+      213: -2034247286482134841
+    second: 2. Turn sprite sheet for rat for intersession for the arts of video game
+      and graphic design_12
+  - first:
+      213: -1835741389202957609
+    second: 2. Turn sprite sheet for rat for intersession for the arts of video game
+      and graphic design_13
+  - first:
+      213: 5273050177109390710
+    second: 2. Turn sprite sheet for rat for intersession for the arts of video game
+      and graphic design_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2. Turn sprite sheet for rat for intersession for the arts of video game
+        and graphic design_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 718
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb72a55e6986d4a0800000000000000
+      internalID: -6568911899497169994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Turn sprite sheet for rat for intersession for the arts of video game
+        and graphic design_1
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 0
+        width: 721
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a6007bd4b417670800000000000000
+      internalID: 8534685565998623348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Turn sprite sheet for rat for intersession for the arts of video game
+        and graphic design_2
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 0
+        width: 710
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7942fa1578508f70800000000000000
+      internalID: 9187440499822315900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Turn sprite sheet for rat for intersession for the arts of video game
+        and graphic design_3
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 0
+        width: 623
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c6b7c23134a9980800000000000000
+      internalID: -8531432794470257556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Turn sprite sheet for rat for intersession for the arts of video game
+        and graphic design_4
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 0
+        width: 688
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958bd2746e0382880800000000000000
+      internalID: -8635598519888136103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Turn sprite sheet for rat for intersession for the arts of video game
+        and graphic design_5
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 0
+        width: 663
+        height: 883
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d81b68bdfca47080800000000000000
+      internalID: -9190530733835609895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Turn sprite sheet for rat for intersession for the arts of video game
+        and graphic design_6
+      rect:
+        serializedVersion: 2
+        x: 4166
+        y: 0
+        width: 727
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdcdbe6e07ca5840800000000000000
+      internalID: 5213698383436172799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Turn sprite sheet for rat for intersession for the arts of video game
+        and graphic design_7
+      rect:
+        serializedVersion: 2
+        x: 4893
+        y: 0
+        width: 738
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4860b322858f54b0800000000000000
+      internalID: -5449490230104004531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Turn sprite sheet for rat for intersession for the arts of video game
+        and graphic design_8
+      rect:
+        serializedVersion: 2
+        x: 5625
+        y: 0
+        width: 727
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37071a0bc5b06900800000000000000
+      internalID: 675739827757844287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Turn sprite sheet for rat for intersession for the arts of video game
+        and graphic design_9
+      rect:
+        serializedVersion: 2
+        x: 6372
+        y: 0
+        width: 742
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3992e043333de1950800000000000000
+      internalID: 6421802335547042195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Turn sprite sheet for rat for intersession for the arts of video game
+        and graphic design_10
+      rect:
+        serializedVersion: 2
+        x: 7120
+        y: 0
+        width: 669
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fdbafc48f60fc80800000000000000
+      internalID: -8291004297778569340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Turn sprite sheet for rat for intersession for the arts of video game
+        and graphic design_11
+      rect:
+        serializedVersion: 2
+        x: 7788
+        y: 0
+        width: 739
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c337ff5a28a82e00800000000000000
+      internalID: 1020250215551546309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Turn sprite sheet for rat for intersession for the arts of video game
+        and graphic design_12
+      rect:
+        serializedVersion: 2
+        x: 8544
+        y: 0
+        width: 640
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c81eefeed6e4c3e0800000000000000
+      internalID: -2034247286482134841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Turn sprite sheet for rat for intersession for the arts of video game
+        and graphic design_13
+      rect:
+        serializedVersion: 2
+        x: 9204
+        y: 0
+        width: 708.93335
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da5315cee22686e0800000000000000
+      internalID: -1835741389202957609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2. Turn sprite sheet for rat for intersession for the arts of video game
+        and graphic design_14
+      rect:
+        serializedVersion: 2
+        x: 9912
+        y: 0
+        width: 708.93335
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6757a61c233ad2940800000000000000
+      internalID: 5273050177109390710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

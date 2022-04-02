@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: d5fe0c900a6064938b8e5f3616da8e7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2765921498147592703
+    second: Final Knight_0
+  - first:
+      213: -5212426147154489160
+    second: Final Knight_1
+  - first:
+      213: 6907399935678616584
+    second: Final Knight_2
+  - first:
+      213: -8233287618610577921
+    second: Final Knight_3
+  - first:
+      213: -5207798925474001031
+    second: Final Knight_4
+  - first:
+      213: 608947426145281517
+    second: Final Knight_5
+  - first:
+      213: 2719670842519142669
+    second: Final Knight_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Final Knight_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 462
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 147.459, y: 282.07965}
+        - {x: -136.42773, y: 282.07965}
+        - {x: -176.27148, y: 243.91592}
+        - {x: -231, y: 160.95132}
+        - {x: -231, y: 86.28319}
+        - {x: -119.82617, y: -199.11504}
+        - {x: -111.52539, y: -220.68584}
+        - {x: 159.0801, y: -220.68584}
+        - {x: 169.04103, y: -219.02655}
+        - {x: 169.04103, y: 222.34512}
+        - {x: 165.72072, y: 272.1239}
+      - - {x: -76.6621, y: -117.80973}
+        - {x: -78.32226, y: -111.17256}
+        - {x: -84.96289, y: -102.87611}
+        - {x: -86.62305, y: -97.89823}
+        - {x: -84.96289, y: -96.23894}
+        - {x: -75.001945, y: -96.23894}
+        - {x: -76.6621, y: -99.55752}
+        - {x: -76.6621, y: -111.17256}
+        - {x: -78.32226, y: -112.831856}
+        - {x: -76.6621, y: -121.12832}
+        - {x: -75.001945, y: -119.469025}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff914b5b2f6826620800000000000000
+      internalID: 2765921498147592703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Knight_1
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 441
+        height: 742
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -123.99024, y: 44.800884}
+        - {x: -77.50586, y: -48.11947}
+        - {x: -69.20508, y: -59.734512}
+        - {x: -119.00977, y: 4.977876}
+        - {x: -148.89258, y: 107.85398}
+        - {x: -190.3965, y: 146.0177}
+        - {x: -211.97853, y: 160.95132}
+        - {x: -211.97853, y: 71.349556}
+        - {x: -105.72852, y: -217.36725}
+        - {x: 194.75977, y: -217.36725}
+        - {x: 194.75977, y: 19.911505}
+        - {x: 174.83789, y: 258.84955}
+        - {x: 90.16992, y: 268.8053}
+        - {x: 38.70508, y: 268.8053}
+        - {x: -24.380861, y: 187.5}
+      - - {x: -47.62305, y: -124.4469}
+        - {x: -52.60352, y: -119.469025}
+        - {x: -57.58399, y: -111.17256}
+        - {x: -54.263676, y: -109.513275}
+        - {x: -44.30274, y: -107.85398}
+        - {x: -45.962894, y: -109.513275}
+        - {x: -45.962894, y: -119.469025}
+        - {x: -47.62305, y: -121.12832}
+        - {x: -47.62305, y: -127.76549}
+        - {x: -49.283207, y: -129.42477}
+        - {x: -47.62305, y: -132.74336}
+        - {x: -45.962894, y: -131.08408}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b016e8290eb9a7b0800000000000000
+      internalID: -5212426147154489160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Knight_2
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 0
+        width: 438
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 45.044914, y: 237.27876}
+        - {x: -96.068375, y: 36.504425}
+        - {x: -89.42775, y: 14.933628}
+        - {x: -147.53322, y: 94.57964}
+        - {x: -200.65822, y: 141.03983}
+        - {x: -208.959, y: 146.0177}
+        - {x: -208.959, y: 46.460175}
+        - {x: -97.72853, y: -220.68584}
+        - {x: 197.7793, y: -220.68584}
+        - {x: 197.7793, y: 219.02655}
+        - {x: 152.95508, y: 237.27876}
+      - - {x: -44.603527, y: -137.72124}
+        - {x: -49.583996, y: -134.40265}
+        - {x: -49.583996, y: -132.74336}
+        - {x: -54.564465, y: -126.10619}
+        - {x: -51.244152, y: -122.787605}
+        - {x: -41.283215, y: -121.12832}
+        - {x: -42.94337, y: -122.787605}
+        - {x: -42.94337, y: -132.74336}
+        - {x: -44.603527, y: -134.40265}
+        - {x: -44.603527, y: -141.03983}
+        - {x: -46.263683, y: -142.69911}
+        - {x: -44.603527, y: -146.0177}
+        - {x: -42.94337, y: -144.3584}
+      - - {x: -57.884777, y: -86.28319}
+        - {x: -52.90431, y: -86.28319}
+        - {x: -46.263683, y: -79.64602}
+        - {x: -46.263683, y: -81.305305}
+        - {x: -49.583996, y: -81.305305}
+        - {x: -54.564465, y: -86.28319}
+        - {x: -54.564465, y: -87.942474}
+        - {x: -56.22462, y: -89.60177}
+        - {x: -56.22462, y: -87.942474}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8041eaff4a30cdf50800000000000000
+      internalID: 6907399935678616584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Knight_3
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 0
+        width: 488
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 180.85733, y: -169.24779}
+        - {x: 180.85733, y: -87.942474}
+        - {x: 144.3339, y: 106.19469}
+        - {x: 116.11124, y: 131.08408}
+        - {x: 76.26749, y: 160.95132}
+        - {x: 122.75186, y: 159.29204}
+        - {x: 157.61514, y: 162.61061}
+        - {x: 144.3339, y: 195.79646}
+        - {x: 159.2753, y: 258.84955}
+        - {x: 64.64639, y: 292.0354}
+        - {x: 13.181544, y: 292.0354}
+        - {x: -122.95127, y: 97.89823}
+        - {x: -112.99033, y: 76.32743}
+        - {x: -91.4083, y: -23.230087}
+        - {x: -83.10752, y: -31.526548}
+        - {x: -74.80674, y: -31.526548}
+        - {x: -76.466896, y: -46.460175}
+        - {x: -94.728615, y: -23.230087}
+        - {x: -166.11534, y: 131.08408}
+        - {x: -220.9005, y: 179.20354}
+        - {x: -227.54112, y: 184.18141}
+        - {x: -227.54112, y: 84.62389}
+        - {x: -109.67002, y: -219.02655}
+        - {x: 180.85733, y: -219.02655}
+        - {x: 180.85733, y: -190.81859}
+        - {x: 172.55655, y: -175.88495}
+      - - {x: -63.185646, y: -102.87611}
+        - {x: -71.48643, y: -92.92035}
+        - {x: -73.14658, y: -87.942474}
+        - {x: -71.48643, y: -86.28319}
+        - {x: -59.865334, y: -84.62389}
+        - {x: -61.52549, y: -86.28319}
+        - {x: -61.52549, y: -96.23894}
+        - {x: -63.185646, y: -97.89823}
+        - {x: -63.185646, y: -104.5354}
+        - {x: -64.8458, y: -106.19469}
+        - {x: -63.185646, y: -109.513275}
+        - {x: -61.52549, y: -107.85398}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd381f588c7dbd80800000000000000
+      internalID: -8233287618610577921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Knight_4
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 0
+        width: 501
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 140.86908, y: -174.22566}
+        - {x: 167.4316, y: -182.52213}
+        - {x: 182.373, y: -146.0177}
+        - {x: 185.69331, y: -129.42477}
+        - {x: 185.69331, y: 84.62389}
+        - {x: 114.30659, y: 199.11504}
+        - {x: 132.5683, y: 207.4115}
+        - {x: 157.47066, y: 230.64159}
+        - {x: 104.34565, y: 265.48672}
+        - {x: -109.814514, y: 265.48672}
+        - {x: -224.3653, y: 84.62389}
+        - {x: -224.3653, y: -116.150444}
+        - {x: -197.8028, y: -139.38052}
+        - {x: -166.25983, y: -107.85398}
+        - {x: -162.93951, y: -101.21681}
+        - {x: -123.095764, y: -204.09291}
+        - {x: -113.13483, y: -220.68584}
+        - {x: 167.4316, y: -220.68584}
+        - {x: 170.7519, y: -189.15929}
+        - {x: 157.47066, y: -180.86282}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f0679287e2ab7b0800000000000000
+      internalID: -5207798925474001031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Knight_5
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 0
+        width: 501
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12.865198, y: 265.48672}
+        - {x: -247.77934, y: 29.867256}
+        - {x: -247.77934, y: -54.756638}
+        - {x: -138.20903, y: -220.68584}
+        - {x: 130.7363, y: -220.68584}
+        - {x: 172.2402, y: -214.04868}
+        - {x: 198.8027, y: -199.11504}
+        - {x: 198.8027, y: 265.48672}
+      - - {x: -105.0059, y: -54.756638}
+        - {x: -105.0059, y: -48.11947}
+        - {x: -106.66605, y: -24.88938}
+        - {x: -101.685585, y: -46.460175}
+        - {x: -100.02543, y: -51.438053}
+        - {x: -91.72465, y: -59.734512}
+        - {x: -83.42387, y: -59.734512}
+        - {x: -75.123085, y: -51.438053}
+        - {x: -73.46293, y: -58.075222}
+        - {x: -68.48246, y: -63.053097}
+        - {x: -60.18168, y: -64.71239}
+        - {x: -70.14262, y: -58.075222}
+        - {x: -95.04496, y: -58.075222}
+        - {x: -101.685585, y: -63.053097}
+        - {x: -100.02543, y: -63.053097}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5274e257a637800800000000000000
+      internalID: 608947426145281517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Knight_6
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 0
+        width: 472
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 136.08195, y: 233.96017}
+        - {x: 74.656166, y: 265.48672}
+        - {x: -11.671961, y: 265.48672}
+        - {x: -197.60947, y: -31.526548}
+        - {x: -197.60947, y: -97.89823}
+        - {x: -124.56259, y: -219.02655}
+        - {x: -114.601654, y: -220.68584}
+        - {x: 172.6054, y: -220.68584}
+        - {x: 172.6054, y: 127.76549}
+        - {x: 169.28508, y: 214.04868}
+      - - {x: -74.757904, y: -53.097343}
+        - {x: -73.09775, y: -49.77876}
+        - {x: -71.43759, y: -53.097343}
+        - {x: -71.43759, y: -51.438053}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01475ac8363eb520800000000000000
+      internalID: 2719670842519142669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
